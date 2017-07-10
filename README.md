@@ -10,4 +10,4 @@ For more information about the act visit "http://rti.gov.in"
 This website is build on MVC design pattern using Java Servlet, JSP, Jquery, JavaScript, CSS, HTML.
 Server Language used : JAVA
 
-About SAIL: Steel Authority of India Limited is one of the largest state-owned steel making company based in New Delhi, India and one of the top steel makers in world. With an annual turnover of ₹43,337 crore.
+About SAIL: Steel Authority of India Limited is one of the largest state-owned steel making company based in New Delhi, India and one of the top steel makers in world. With an annual turnover of ₹43,337 crore. For more information about SAIL visit "https://www.sail.co.in/" 
