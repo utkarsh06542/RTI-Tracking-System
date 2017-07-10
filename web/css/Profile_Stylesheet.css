@@ -1,0 +1,86 @@
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+body {
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+.subjectTable{
+    width:100%;
+    max-width:100%;
+}
+.subjectTable tr{
+    height:30px;
+    max-height:30px;
+    overflow-y:auto;
+}
+.subjectTable td{
+    padding:5px;
+}
+
+#theading{
+    background-color: #269abc;
+    color: white;
+    max-height:20px;
+    overflow: hidden;
+    text-justify: auto;
+
+
+}
+
+th{
+    text-justify: auto;
+}
+td {
+    line-height: 30px;
+    max-height: 30px;
+    height: 30px;
+    overflow: auto;
+}
+#tablebody{
+    width:100%;
+}
+#table1{
+    positon:absolute;
+    width:90%;
+    max-width:90%;
+    margin-left:5%;
+    margin-right:5%;
+}
+#table1 td{
+    overflow-x: hidden;
+}
+.modal-body{
+    max-height: 300px;
+    overflow-y: auto;
+}
+.modal-header{
+    background-color:  #9acfea;
+}
+.modal-content input{
+    border-radius: 5px;
+    padding: 2px;
+}
+.edit{
+    width:100%;
+    max-width:100%;
+}
+#myInput {
+  font-size: 14px;
+  padding: 4px 6px 4px 6px;
+  border: 1px solid #ddd;
+  
+}
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
+}
